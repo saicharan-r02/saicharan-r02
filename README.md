@@ -148,15 +148,19 @@
 ---
 
 ### 🐍 My Contributions
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/saicharan-r02/saicharan-r02/output/github-contribution-grid-snake-dark.svg">
 
-### 🐍 My Contributions
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/saicharan-r02/saicharan-r02/output/github-contribution-grid-snake.svg">
 
-<p align="center">
   <img
-    src="https://raw.githubusercontent.com/saicharan-r02/saicharan-r02/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Snake"
-  />
-</p>
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/saicharan-r02/saicharan-r02/output/github-contribution-grid-snake.svg">
+</picture>
 ---
 
 ### 🤝 Let's Connect
