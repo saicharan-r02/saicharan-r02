@@ -147,113 +147,16 @@
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=saicharan-r02\&show_icons=true\&theme=dark\&hide_border=true)
-
----
-
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=saicharan-r02\&theme=dark\&hide_border=true)
-
----
-
 ### 🐍 My Contributions
 
 ### 🐍 My Contributions
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/saicharan-r02/saicharan-r02/output/github-contribution-grid-snake-dark.svg">
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/saicharan-r02/saicharan-r02/output/github-contribution-grid-snake.svg">
-
+<p align="center">
   <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/saicharan-r02/saicharan-r02/output/github-contribution-grid-snake.svg">
-</picture>
----
-
-### 🚀 Featured Projects
-
-#### 🤖 OmniDoc-RAG
-
-📚 RAG-based academic assistant supporting **38 subjects and 36K+ indexed course-document chunks**.
-
-* PDF, DOCX, and PPTX document ingestion
-* OCR support for scanned materials
-* Subject-aware retrieval
-* Query expansion and abbreviation resolution
-* Relevance validation
-* Groq AI with Ollama fallback
-* FastAPI backend and JavaScript frontend
-* Deployed on Render
-
-🔗 [View Project](https://github.com/saicharan-r02/OmniDoc-RAG)
-
----
-
-#### 🎯 Career Navigator
-
-AI analytics platform mapping engineering course grades into **9 technical pillars** to help identify suitable technology careers.
-
-* Random Forest classification
-* React.js + Flask full-stack application
-* SQLite and SQLAlchemy
-* Career roadmap generation
-* Curriculum-to-industry skill-gap analysis
-
-🔗 [View Project](https://github.com/saicharan-r02/Career-Navigator-system)
-
----
-
-#### 📊 Customer Churn Prediction & Retention Intelligence System
-
-Machine-learning platform for predicting customer churn using **7,032 IBM Telco records**.
-
-* Random Forest model
-* 80.4% accuracy
-* 0.850 ROC-AUC
-* Flask REST API
-* SQLite and SQLAlchemy
-* Real-time churn probability scoring
-
-🔗 [View Project](https://github.com/saicharan-r02/Customer-Churn-Prediction-Retention-Intelligence-System)
-
----
-
-#### 🚗 Car Recommendation System
-
-Hybrid recommendation system matching user **budget and 0–60 MPH targets across 178+ supercar models**.
-
-* Vector similarity scoring
-* React + Vite frontend
-* Express.js API gateway
-* Python scoring backend
-* SQLite inventory system
-
-🔗 [View Project](https://github.com/saicharan-r02/car-recommendation)
-
----
-
-### 💡 Currently Exploring
-
-```text
-AI Engineering
-RAG Systems
-LLM Applications
-Semantic Search
-Vector Embeddings
-Machine Learning
-Backend Engineering
-Full-Stack Development
-Cloud Deployment
-```
-
+    src="https://raw.githubusercontent.com/saicharan-r02/saicharan-r02/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
 ---
 
 ### 🤝 Let's Connect
