@@ -16,12 +16,12 @@ jobs:
       - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: saicharan-r02
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=%2300E5FF&color_dots=%23161B22,%230B3D2E,%23087F5B,%2320C997,%2363E6BE
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300E5FF&color_dots=%23161B22,%230B3D2E,%23087F5B,%2320C997,%2363E6BE
 
-      - name: Push snake files to output branch
+      - name: Push generated files to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
