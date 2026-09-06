@@ -18,8 +18,8 @@ jobs:
         with:
           github_user_name: saicharan-r02
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#A000FF&color_dots=#161B22,#0B3D2E,#087F5B,#20C997,#63E6BE
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#A000FF&color_dots=#161B22,#0B3D2E,#087F5B,#20C997,#63E6BE
+            dist/github-contribution-grid-snake.svg?color_snake=%2300AFFF&color_dots=%23161B22,%23003D1F,%2300A639,%2300C853,%2300E676
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300AFFF&color_dots=%23161B22,%23003D1F,%2300A639,%2300C853,%2300E676
 
       - name: Push snake files to output branch
         uses: crazy-max/ghaction-github-pages@v4
