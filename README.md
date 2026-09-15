@@ -111,23 +111,28 @@
   </td>
 
   <td align="center">
+  <div style="width:50px;height:50px;border-radius:10px;background:#1f2533;display:flex;align-items:center;justify-content:center;">
     <img src="https://cdn.simpleicons.org/render/46E3B7"
-         width="50" height="50" alt="Render" />
-    <br>Render
-  </td>
+         width="38" height="38" alt="Render" />
+  </div>
+  <br>Render
+</td>
 
-  <td align="center">
+<td align="center">
+  <div style="width:50px;height:50px;border-radius:10px;background:#1f2533;display:flex;align-items:center;justify-content:center;">
     <img src="https://cdn.simpleicons.org/pandas/150458"
-         width="50" height="50" alt="Pandas" />
-    <br>Pandas
-  </td>
+         width="38" height="38" alt="Pandas" />
+  </div>
+  <br>Pandas
+</td>
 
-  <td align="center">
+<td align="center">
+  <div style="width:50px;height:50px;border-radius:10px;background:#1f2533;display:flex;align-items:center;justify-content:center;">
     <img src="https://cdn.simpleicons.org/sqlalchemy/D71F00"
-         width="50" height="50" alt="SQLAlchemy" />
-    <br>SQLAlchemy
-  </td>
-</tr>
+         width="38" height="38" alt="SQLAlchemy" />
+  </div>
+  <br>SQLAlchemy
+</td>
 </table>
 
 ---
