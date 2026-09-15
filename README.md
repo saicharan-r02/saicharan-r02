@@ -105,23 +105,29 @@
   </tr>
 
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
-      <br>Vercel
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=render" width="50" height="50" alt="Render" />
-      <br>Render
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=pandas" width="50" height="50" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sqlalchemy" width="50" height="50" alt="SQLAlchemy" />
-      <br>SQLAlchemy
-    </td>
-  </tr>
+  <td align="center">
+    <img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel" />
+    <br>Vercel
+  </td>
+
+  <td align="center">
+    <!-- Render custom icon -->
+    <img src="YOUR_RENDER_ICON_URL" width="50" height="50" alt="Render" />
+    <br>Render
+  </td>
+
+  <td align="center">
+    <!-- Pandas custom icon -->
+    <img src="YOUR_PANDAS_ICON_URL" width="50" height="50" alt="Pandas" />
+    <br>Pandas
+  </td>
+
+  <td align="center">
+    <!-- SQLAlchemy custom icon -->
+    <img src="YOUR_SQLALCHEMY_ICON_URL" width="50" height="50" alt="SQLAlchemy" />
+    <br>SQLAlchemy
+  </td>
+</tr>
 </table>
 
 ---
