@@ -111,19 +111,19 @@
   </td>
 
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg"
+    <img src="https://cdn.simpleicons.org/render/46E3B7"
          width="50" height="50" alt="Render" />
     <br>Render
   </td>
 
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pandas.svg"
+    <img src="https://cdn.simpleicons.org/pandas/150458"
          width="50" height="50" alt="Pandas" />
     <br>Pandas
   </td>
 
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sqlalchemy.svg"
+    <img src="https://cdn.simpleicons.org/sqlalchemy/D71F00"
          width="50" height="50" alt="SQLAlchemy" />
     <br>SQLAlchemy
   </td>
