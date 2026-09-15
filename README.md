@@ -111,19 +111,19 @@
   </td>
 
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/render.svg"
          width="50" height="50" alt="Render" />
     <br>Render
   </td>
 
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/pandas.svg"
          width="50" height="50" alt="Pandas" />
     <br>Pandas
   </td>
 
   <td align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/sqlalchemy.svg"
          width="50" height="50" alt="SQLAlchemy" />
     <br>SQLAlchemy
   </td>
