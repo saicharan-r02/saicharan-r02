@@ -111,20 +111,20 @@
   </td>
 
   <td align="center">
-    <!-- Render custom icon -->
-    <img src="YOUR_RENDER_ICON_URL" width="50" height="50" alt="Render" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/render/render-original.svg"
+         width="50" height="50" alt="Render" />
     <br>Render
   </td>
 
   <td align="center">
-    <!-- Pandas custom icon -->
-    <img src="YOUR_PANDAS_ICON_URL" width="50" height="50" alt="Pandas" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+         width="50" height="50" alt="Pandas" />
     <br>Pandas
   </td>
 
   <td align="center">
-    <!-- SQLAlchemy custom icon -->
-    <img src="YOUR_SQLALCHEMY_ICON_URL" width="50" height="50" alt="SQLAlchemy" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg"
+         width="50" height="50" alt="SQLAlchemy" />
     <br>SQLAlchemy
   </td>
 </tr>
