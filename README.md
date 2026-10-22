@@ -7,7 +7,6 @@
 * 💻 Experienced in building **full-stack applications and REST APIs**
 * 🐍 Working with **Python and JavaScript** across AI and software projects
 * 🚀 Building practical projects that combine **AI, machine learning, backend systems, and modern web technologies**
-
 ---
 
 ### 📲 Connect With Me
@@ -17,7 +16,6 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/Isai-charan/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/saicharan-r02)
-
 ---
 
 ### 🛠️ Tech Stack
@@ -129,7 +127,6 @@
   </td>
 </tr>
 </table>
-
 ---
 
 ### 🧠 AI / LLM / Data Technologies
@@ -144,7 +141,6 @@
   <img src="https://img.shields.io/badge/Groq-111111?style=for-the-badge" alt="Groq" />
   <img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge" alt="Ollama" />
 </p>
-
 ---
 
 ### 📊 Most Used Languages
