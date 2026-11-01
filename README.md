@@ -1,4 +1,4 @@
-# Hi 👋, I'm Saicharan
+# Hi 👋, I'm R.Sai Charan
 
 ### 👨‍💻 About Me
 
